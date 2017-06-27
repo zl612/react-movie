@@ -1,0 +1,9 @@
+.movieList_container{
+    height: 100%;
+    overflow-y: scroll;
+}
+.movieList_item{
+    display: flex;
+    padding-top: .4rem;
+    background-color: powderblue;
+}
